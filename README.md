@@ -18,12 +18,12 @@ Send a POST request to the /upload endpoint with the CSV file containing the dat
 
 ### Contributing
 Contributions are welcome! If you'd like to contribute to this project, follow these steps:
-Fork the repository.
-Create a new branch (git checkout -b feature/your-new-feature).
-Make your changes.
-Commit your changes (git commit -am 'Add new feature').
-Push to the branch (git push origin feature/your-new-feature).
-Create a new Pull Request.
+-Fork the repository.
+-Create a new branch (git checkout -b feature/your-new-feature).
+-Make your changes.
+-Commit your changes (git commit -am 'Add new feature').
+-Push to the branch (git push origin feature/your-new-feature).
+-Create a new Pull Request.
 
 ### License
 This project is licensed under the MIT License.
